@@ -1,0 +1,70 @@
+#topNav{
+     word-spacing: 70px;
+     margin-top: 1cm;
+     margin-left: 13cm;
+     cursor: pointer;
+}
+
+#ownerImg{
+    margin-top: 0.1cm;
+    margin-left: 0.8cm;
+}
+
+p{
+    margin-left: 1.5cm;
+    font-size: 30px;
+}
+
+
+.flex-container {
+    display: flex;
+}
+
+
+.reposLinks{
+    display: none;
+    margin-left: 7cm;
+    margin-top: 0.1cm;
+    width: 100cm;
+}
+
+.starsDiv{
+    margin-top: 0.4cm;
+    font-size: 14px;
+}
+
+.forksDiv{
+    font-size: 14px;
+}
+
+.error{
+    text-align: center;
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:red;
+}
+
+.Label{
+    display: inline-block;
+    padding: 0px 3px 0px 3px;
+    font-size: 12px;
+    font-weight: 500;
+    color:grey;
+    line-height: 18px;
+    border: 1px solid transparent;
+    border-radius: 2em;
+    border-color: grey;
+}
+
+#getRepoHomePage{
+   margin-left: 17cm;
+}
+
+.repoCount{
+    padding: 0px 3px 0px 3px;
+    padding: 0 6px;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 18px;
+    color:grey;
+}
